@@ -1,0 +1,9 @@
+google-genai
+streamlit
+transformers
+sentence-transformers
+PyPDF2
+faiss-cpu
+bitsandbytes
+accelerate
+torch
