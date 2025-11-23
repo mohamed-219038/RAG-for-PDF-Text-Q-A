@@ -20,4 +20,17 @@ Follow these steps to get the application running locally.
 ### 1. Prerequisites
 
 You need Python 3.9+ installed on your system.
+### 2. Get Your API Key
 
+1.  Create an API key from Google AI Studio.
+2.  Set it as an environment variable in your terminal. This is the most secure method.
+
+    ```bash
+    export GEMINI_API_KEY="YOUR_API_KEY_HERE"
+    ```
+
+### 3. Clone the Repository
+
+```bash
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
