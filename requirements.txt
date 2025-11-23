@@ -7,3 +7,4 @@ faiss-cpu
 bitsandbytes
 accelerate
 torch
+nbformat
